@@ -32,3 +32,23 @@ b : set-up the data-calculation
 
 ## 03. Main Code
 
+## (+) VIM
+
+vim + file
+
+i = insert
+
+esc = 이동
+
+shift + ; 상태
+
+w = 저장
+
+wq = 저장 후 종료
+
+q! = 저장 없이 종료 
+
+pycharm 에서 사용
+
+git commit --amend
+
