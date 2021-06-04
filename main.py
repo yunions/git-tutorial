@@ -8,3 +8,4 @@ def new_func() :
 
 def new_feature() :
     print('hello check check')
+    print('okay')
