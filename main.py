@@ -11,4 +11,5 @@ def new_feature() :
     print('okay')
 
 def new() :
-    pass
+    print('new')
+    print('hi')
