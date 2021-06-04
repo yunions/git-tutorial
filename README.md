@@ -52,3 +52,4 @@ pycharm 에서 사용
 
 git commit --amend
 
+![image-20210604114741994](README.assets/image-20210604114741994.png)
