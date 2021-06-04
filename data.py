@@ -1,2 +1,2 @@
-def a() :
+def () :
     print('hi')
