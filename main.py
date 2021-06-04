@@ -7,4 +7,4 @@ def new_func() :
     print(a)
 
 def new_feature() :
-    pass
+    print('hello check check')
