@@ -3,4 +3,5 @@ import data
 data.a()
 
 def new_func() :
-    print('a')
+    a = 3+6
+    print(a)
